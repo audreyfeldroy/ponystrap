@@ -1,0 +1,4 @@
+.djangopony{background:transparent url('../img/pony.png') 0 0 no-repeat;position:absolute;width:117px;height:98px;}
+
+/* You should set these values */
+.djangopony{top:200px;left:200px;}

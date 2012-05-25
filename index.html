@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <title>Ponystrap</title>
+    <link href="css/ponystrap.css" rel="stylesheet">
+</head>
+<body>
+    <h1>Ponystrap</h1>
+
+    <h2>Simple HTML/CSS/JS components for adding Django ponies to your websites. More Python/JS animals to come soon.</h2>
+
+    <p>Uses <a href="http://www.spritely.net/">jQuery Spritely</a>.</p>
+
+    <h3>Django Pony</h3>
+    <div class="djangopony"></div>
+
+
+<script src="js/jquery.spritely-0.6.1.js"></script>
+<script type="text/javascript">
+    $('.djangopony').sprite({fps: 12, no_of_frames: 2}).activeOnClick().active();
+</script>
+
+</body>
+</html>

@@ -3,18 +3,68 @@
 <head>
     <meta charset="utf-8">
     <title>Ponystrap</title>
+    <link href="css/bootstrap.min.css" rel="stylesheet">
     <link href="css/ponystrap.css" rel="stylesheet">
+    <link href="css/custom.css" rel="stylesheet">
 </head>
 <body>
-    <h1>Ponystrap</h1>
+<div class="container">
+    <div class="row">
+        <div class="span12 prepend-top">
+            <h1>Ponystrap</h1>
 
-    <h2>Simple HTML/CSS/JS components for adding Django ponies to your websites. More Python/JS animals to come soon.</h2>
+            <h2>Simple HTML/CSS/JS components for adding Django ponies to your websites.</h2>
+        </div>
+    </div>
+    <div class="row">
+        <hr/>
+        <div class="span8">
+            <h3>Django Pony</h3>
 
-    <p>Uses <a href="http://www.spritely.net/">jQuery Spritely</a>.</p>
+            <p>First, add this HTML to your web page:</p>
+            <pre>&lt;div class="djangopony"&gt;&lt;/div&gt;</pre>
 
-    <h3>Django Pony</h3>
-    <div class="djangopony"></div>
+            <p>Second, add this CSS to wherever you put your web page's custom CSS styles.  Change the coordinates to be where you want your pony to be:</p>
+            <pre>.djangopony{top:110px;left:700px;}</pre>
 
+            <p>Third, add this JS to the bottom of your web page to make the pony's wings flutter:</p>
+            <pre>$('.djangopony').sprite({fps: 12, no_of_frames: 2}).activeOnClick().active();</pre>
+        </div>
+        <div class="span4">
+            <div class="djangopony"></div>
+        </div>
+    </div>
+    <div class="row">
+        <div class="span12">
+            <hr/>
+
+            <h3>Other animals?</h3>
+
+            <p>Not yet.  More animal styles to come soon.</p>
+
+            <p>Contributions welcome.  Just submit a pull request.</p>
+            <p>Requests for other Python animals are welcome too.  Tell <a href="http://twitter.com/audreyr">@audreyr</a> about your open-source Python project and your animal needs.</p>
+
+            <hr/>
+
+            <h3>Installation</h3>
+            <p>Copy ponystrap.css over to your project and link to it:</p>
+
+            <pre>&lt;link href="css/ponystrap.css" rel="stylesheet"&gt;</pre>
+
+            <h3>Dependencies</h3>
+            <p>This library requires the following. Install them:</p>
+            <ul>
+                <li><a href="http://www.spritely.net/">jQuery Spritely</a>.</li>
+                <li><a href="http://www.jquery.com">jQuery</a> (since Spritely requires it).</li>
+            </ul>
+            <p>Not absolutely required, but used on this page:</p>
+            <ul>
+                <li><a href="http://twitter.github.com/bootstrap/">Twitter Bootstrap</a></li>
+            </ul>
+        </div>
+    </div>
+</div>
 <script src="js/jquery-1.7.2.min.js"></script>
 <script src="js/jquery.spritely-0.6.1.js"></script>
 <script type="text/javascript">

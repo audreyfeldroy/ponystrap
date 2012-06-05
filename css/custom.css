@@ -1,0 +1,6 @@
+/* Utilities */
+.prepend-top{margin-top:16px;}
+
+/* See the ponystrap docs for instructions */
+#staticpony{top:140px;left:840px;}
+#movingpony{top:240px;left:840px;}

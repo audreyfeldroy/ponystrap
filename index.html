@@ -1,63 +1,82 @@
-<!doctype html>
-<html>
-  <head>
+<!DOCTYPE html>
+<html lang="en">
+<head>
     <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="chrome=1">
-    <title>Ponystrap by audreyr</title>
+    <title>Ponystrap</title>
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <link href="css/ponystrap.css" rel="stylesheet">
+    <link href="css/custom.css" rel="stylesheet">
+</head>
+<body>
+<div class="container">
+    <div class="row">
+        <div class="span12 prepend-top">
+            <h1>Ponystrap</h1>
 
-    <link rel="stylesheet" href="stylesheets/styles.css">
-    <link rel="stylesheet" href="stylesheets/pygment_trac.css">
-    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
-    <!--[if lt IE 9]>
-    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
-    <![endif]-->
-  </head>
-  <body>
-    <div class="wrapper">
-      <header>
-        <h1>Ponystrap</h1>
-        <p>Simple HTML/CSS/JS components for adding Django ponies to your websites. More animals to come soon.</p>
-        <p class="view"><a href="https://github.com/audreyr/ponystrap">View the Project on GitHub <small>audreyr/ponystrap</small></a></p>
-        <ul>
-          <li><a href="https://github.com/audreyr/ponystrap/zipball/master">Download <strong>ZIP File</strong></a></li>
-          <li><a href="https://github.com/audreyr/ponystrap/tarball/master">Download <strong>TAR Ball</strong></a></li>
-          <li><a href="https://github.com/audreyr/ponystrap">View On <strong>GitHub</strong></a></li>
-        </ul>
-      </header>
-      <section>
-        <h3>Welcome to GitHub Pages.</h3>
-
-<p>This automatic page generator is the easiest way to create beautiful pages for all of your projects. Author your page content here using GitHub Flavored Markdown, select a template crafted by a designer, and publish. After your page is generated, you can check out the new branch:</p>
-
-<pre><code>$ cd your_repo_root/repo_name
-$ git fetch origin
-$ git checkout gh-pages
-</code></pre>
-
-<p>If you're using the GitHub for Mac, simply sync your repository and you'll see the new branch.</p>
-
-<h3>Designer Templates</h3>
-
-<p>We've crafted some handsome templates for you to use. Go ahead and continue to layouts to browse through them. You can easily go back to edit your page before publishing. After publishing your page, you can revisit the page generator and switch to another theme. Your Page content will be preserved if it remained markdown format.</p>
-
-<h3>Rather Drive Stick?</h3>
-
-<p>If you prefer to not use the automatic generator, push a branch named <code>gh-pages</code> to your repository to create a page manually. In addition to supporting regular HTML content, GitHub Pages support Jekyll, a simple, blog aware static site generator written by our own Tom Preston-Werner. Jekyll makes it easy to create site-wide headers and footers without having to copy them across every page. It also offers intelligent blog support and other advanced templating features.</p>
-
-<h3>Authors and Contributors</h3>
-
-<p>You can <a href="https://github.com/blog/821" class="user-mention">@mention</a> a GitHub username to generate a link to their profile. The resulting <code>&lt;a&gt;</code> element will link to the contributor's GitHub Profile. For example: In 2007, Chris Wanstrath (<a href="https://github.com/defunkt" class="user-mention">@defunkt</a>), PJ Hyett (<a href="https://github.com/pjhyett" class="user-mention">@pjhyett</a>), and Tom Preston-Werner (<a href="https://github.com/mojombo" class="user-mention">@mojombo</a>) founded GitHub.</p>
-
-<h3>Support or Contact</h3>
-
-<p>Having trouble with Pages? Check out the documentation at <a href="http://help.github.com/pages">http://help.github.com/pages</a> or contact <a href="mailto:support@github.com">support@github.com</a> and we’ll help you sort it out.</p>
-      </section>
-      <footer>
-        <p>This project is maintained by <a href="https://github.com/audreyr">audreyr</a></p>
-        <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
-      </footer>
+            <h2>Simple HTML/CSS/JS components for adding Django ponies to your websites.</h2>
+        </div>
     </div>
-    <script src="javascripts/scale.fix.js"></script>
-    
-  </body>
+    <div class="row">
+        <hr/>
+        <div class="span8">
+            <h3>A Django pony</h3>
+
+            <p>First, add this HTML to your web page. Replace 'yourpony' with the name of your pony:</p>
+            <pre>&lt;div class="djangopony" id="yourpony"&gt;&lt;/div&gt;</pre>
+
+            <p>Second, add this CSS to wherever you put your web page's custom CSS styles.  Change the coordinates to be where you want your pony to be:</p>
+            <pre>#yourpony{top:110px;left:700px;}</pre>
+
+            <p>Third, if you want a static pony, add this JS to the bottom of your web page to make the pony's wings flutter:</p>
+            <pre>$('#yourpony').sprite({fps: 12, no_of_frames: 2});</pre>
+
+            <p>If you want the pony to fly to mouse clicks, use this JS instead:</p>
+            <pre>$('#yourpony').sprite({fps: 12, no_of_frames: 2}).activeOnClick().active();
+$('body').flyToTap();</pre>
+        </div>
+        <div class="span4">
+            <div class="djangopony" id="staticpony"></div>
+            <div class="djangopony" id="movingpony"></div>
+        </div>
+    </div>
+    <div class="row">
+        <div class="span12">
+            <hr/>
+
+            <h3>Other animals?</h3>
+
+            <p>Not yet.  More animal styles to come soon.</p>
+
+            <p>Contributions welcome.  Just submit a pull request.</p>
+            <p>Requests for other Django stuff as well as animals for open-source Django projects are encouraged.  Tell <a href="http://twitter.com/audreyr">@audreyr</a> about your animal needs.</p>
+
+            <hr/>
+
+            <h3>Installation</h3>
+            <p>Copy ponystrap.css over to your project and link to it:</p>
+
+            <pre>&lt;link href="css/ponystrap.css" rel="stylesheet"&gt;</pre>
+
+            <h3>Dependencies</h3>
+            <p>This library requires the following. Install them:</p>
+            <ul>
+                <li><a href="http://www.spritely.net/">jQuery Spritely</a>.</li>
+                <li><a href="http://www.jquery.com">jQuery</a> (since Spritely requires it).</li>
+            </ul>
+            <p>Not absolutely required, but used on this page:</p>
+            <ul>
+                <li><a href="http://twitter.github.com/bootstrap/">Twitter Bootstrap</a></li>
+            </ul>
+        </div>
+    </div>
+</div>
+<script src="js/jquery-1.7.2.min.js"></script>
+<script src="js/jquery.spritely-0.6.1.js"></script>
+<script type="text/javascript">
+    $('#staticpony').sprite({fps: 12, no_of_frames: 2});
+    $('#movingpony').sprite({fps: 12, no_of_frames: 2}).activeOnClick().active();
+    $('body').flyToTap();
+</script>
+
+</body>
 </html>

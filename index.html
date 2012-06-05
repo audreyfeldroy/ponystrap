@@ -19,19 +19,24 @@
     <div class="row">
         <hr/>
         <div class="span8">
-            <h3>Django Pony</h3>
+            <h3>A Django pony</h3>
 
-            <p>First, add this HTML to your web page:</p>
-            <pre>&lt;div class="djangopony"&gt;&lt;/div&gt;</pre>
+            <p>First, add this HTML to your web page. Replace 'yourpony' with the name of your pony:</p>
+            <pre>&lt;div class="djangopony" id="yourpony"&gt;&lt;/div&gt;</pre>
 
             <p>Second, add this CSS to wherever you put your web page's custom CSS styles.  Change the coordinates to be where you want your pony to be:</p>
-            <pre>.djangopony{top:110px;left:700px;}</pre>
+            <pre>#yourpony{top:110px;left:700px;}</pre>
 
-            <p>Third, add this JS to the bottom of your web page to make the pony's wings flutter:</p>
-            <pre>$('.djangopony').sprite({fps: 12, no_of_frames: 2}).activeOnClick().active();</pre>
+            <p>Third, if you want a static pony, add this JS to the bottom of your web page to make the pony's wings flutter:</p>
+            <pre>$('#yourpony').sprite({fps: 12, no_of_frames: 2});</pre>
+
+            <p>If you want the pony to fly to mouse clicks, use this JS instead:</p>
+            <pre>$('#yourpony').sprite({fps: 12, no_of_frames: 2}).activeOnClick().active();
+$('body').flyToTap();</pre>
         </div>
         <div class="span4">
-            <div class="djangopony"></div>
+            <div class="djangopony" id="staticpony"></div>
+            <div class="djangopony" id="movingpony"></div>
         </div>
     </div>
     <div class="row">
@@ -68,7 +73,9 @@
 <script src="js/jquery-1.7.2.min.js"></script>
 <script src="js/jquery.spritely-0.6.1.js"></script>
 <script type="text/javascript">
-    $('.djangopony').sprite({fps: 12, no_of_frames: 2}).activeOnClick().active();
+    $('#staticpony').sprite({fps: 12, no_of_frames: 2});
+    $('#movingpony').sprite({fps: 12, no_of_frames: 2}).activeOnClick().active();
+    $('body').flyToTap();
 </script>
 
 </body>

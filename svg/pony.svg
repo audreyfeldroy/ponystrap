@@ -1,508 +1,136 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   id="svg3093"
-   version="1.1"
-   inkscape:version="0.48.1 r9760"
-   width="255.03802"
-   height="98.881851"
-   sodipodi:docname="pony.svg">
-  <metadata
-     id="metadata3099">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <defs
-     id="defs3097">
-    <linearGradient
-       inkscape:collect="always"
-       id="linearGradient4313">
-      <stop
-         style="stop-color:#a0fff0;stop-opacity:1"
-         offset="0"
-         id="stop4315" />
-      <stop
-         style="stop-color:#e6f3f8;stop-opacity:1"
-         offset="1"
-         id="stop4317" />
-    </linearGradient>
-    <clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="clipPath4654">
-      <rect
-         y="2.0062383e-13"
-         x="25"
-         height="195"
-         width="940"
-         id="rect4656"
-         style="fill:#000000;fill-opacity:1;stroke:none" />
-    </clipPath>
-    <clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="clipPath4666">
-      <rect
-         y="2.0062383e-13"
-         x="25"
-         height="195"
-         width="940"
-         id="rect4668"
-         style="fill:#000000;fill-opacity:1;stroke:none" />
-    </clipPath>
-    <clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="clipPath4682">
-      <rect
-         y="2.0062383e-13"
-         x="25"
-         height="195"
-         width="940"
-         id="rect4684"
-         style="fill:#000000;fill-opacity:1;stroke:none" />
-    </clipPath>
-    <clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="clipPath4694">
-      <rect
-         y="2.0062383e-13"
-         x="25"
-         height="195"
-         width="940"
-         id="rect4696"
-         style="fill:#000000;fill-opacity:1;stroke:none" />
-    </clipPath>
-    <clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="clipPath4774">
-      <rect
-         y="-33.202488"
-         x="17.878679"
-         height="195"
-         width="940"
-         id="rect4776"
-         style="fill:#000000;fill-opacity:1;stroke:none" />
-    </clipPath>
-    <filter
-       color-interpolation-filters="sRGB"
-       height="2.2243624"
-       y="-0.61218119"
-       width="2.2243624"
-       x="-0.61218119"
-       id="filter16053"
-       inkscape:collect="always">
-      <feGaussianBlur
-         id="feGaussianBlur16055"
-         stdDeviation="0.76655387"
-         inkscape:collect="always" />
-    </filter>
-    <filter
-       color-interpolation-filters="sRGB"
-       height="2.2243624"
-       y="-0.61218119"
-       width="2.2243624"
-       x="-0.61218119"
-       id="filter16049"
-       inkscape:collect="always">
-      <feGaussianBlur
-         id="feGaussianBlur16051"
-         stdDeviation="0.76655387"
-         inkscape:collect="always" />
-    </filter>
-    <inkscape:perspective
-       sodipodi:type="inkscape:persp3d"
-       inkscape:vp_x="0 : 526.18109 : 1"
-       inkscape:vp_y="0 : 1000 : 0"
-       inkscape:vp_z="744.09448 : 526.18109 : 1"
-       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
-       id="perspective10836-3" />
-    <inkscape:perspective
-       id="perspective10704-4"
-       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
-       inkscape:vp_z="1 : 0.5 : 1"
-       inkscape:vp_y="0 : 1000 : 0"
-       inkscape:vp_x="0 : 0.5 : 1"
-       sodipodi:type="inkscape:persp3d" />
-    <inkscape:perspective
-       sodipodi:type="inkscape:persp3d"
-       inkscape:vp_x="0 : 0.5 : 1"
-       inkscape:vp_y="0 : 1000 : 0"
-       inkscape:vp_z="1 : 0.5 : 1"
-       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
-       id="perspective10704" />
-    <inkscape:perspective
-       id="perspective10836"
-       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
-       inkscape:vp_z="744.09448 : 526.18109 : 1"
-       inkscape:vp_y="0 : 1000 : 0"
-       inkscape:vp_x="0 : 526.18109 : 1"
-       sodipodi:type="inkscape:persp3d" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient4313"
-       id="linearGradient4319"
-       x1="543"
-       y1="138"
-       x2="543"
-       y2="509.0054"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.97067745,0,0,1,-1179.9706,561.99998)" />
-  </defs>
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="1440"
-     inkscape:window-height="852"
-     id="namedview3095"
-     showgrid="false"
-     inkscape:zoom="1"
-     inkscape:cx="109.07953"
-     inkscape:cy="6.18234"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="svg3093"
-     showguides="true"
-     inkscape:guide-bbox="true"
-     fit-margin-top="0"
-     fit-margin-left="0"
-     fit-margin-right="0"
-     fit-margin-bottom="0">
-    <sodipodi:guide
-       orientation="1,0"
-       position="-418.32468,-209.8025"
-       id="guide4335" />
-  </sodipodi:namedview>
-  <g
-     inkscape:groupmode="layer"
-     id="layer1"
-     inkscape:label="Layer"
-     transform="translate(-387.21198,345.66476)" />
-  <g
-     inkscape:groupmode="layer"
-     id="layer2"
-     inkscape:label="fun"
-     transform="translate(-387.21198,345.66476)" />
-  <path
-     style="fill:#ffaaaa;stroke:none"
-     d="M 13.980721,22.41548 C 7.4361607,28.5963 -2.0309593,41.75033 0.38591066,47.1883 2.8027507,52.62623 4.3955207,55.14673 11.646091,53.93831 c 7.25057,-1.20841 16.63737,-8.70929 16.63737,-8.70929 l 7.14691,15.8562 c 0,0 -1.81265,6.64635 -0.60423,9.06322 1.20842,2.41687 4.22951,14.50115 4.22951,14.50115 l 7.25058,1.20842 c 0,0 -2.41687,-10.87587 1.20842,-10.87587 3.62528,0 3.62528,12.08432 3.62528,12.08432 l 5.43793,0.60419 c 0,0 -1.20841,-12.68851 1.81265,-14.50115 3.02106,-1.81264 22.96017,-0.60419 22.96017,4.22951 0,4.83371 0.32739,6.20667 1.20842,8.76111 0.5897,1.70976 0.85487,3.84694 0.85487,3.84694 l 6.64638,0 c 0,0 0.25715,-5.28012 -1.45909,-9.28487 -1.81265,-4.22948 -0.30215,-6.34424 0.30214,-6.34424 0.60423,0 2.71895,-1.81264 5.13582,0 2.41684,1.81265 3.62529,4.22948 4.22948,7.25058 0.60423,3.02106 1.45909,8.07642 1.45909,8.07642 l 6.366699,0.17678 c 0,0 -0.25064,-5.65959 -0.85487,-8.07642 -0.60422,-2.41687 -2.13718,-4.4063 -2.74141,-9.84423 -0.60422,-5.43793 0.98851,-18.30341 -2.03255,-23.74135 -3.021059,-5.43793 -48.117269,-1.03143 -52.950979,-5.26094 -4.8337,-4.22952 -6.64635,-15.7096 -9.66744,-19.33489 -5.53073,-11.87305 -17.32195,-7.38928 -23.86652,-1.20842 z"
-     id="path5702"
-     inkscape:connector-curvature="0"
-     sodipodi:nodetypes="zssccsccsccsssccssscccsssscz"
-     inkscape:export-filename="/Users/audreyr/code/cw-academy/design/django-pony/sprite/django-pony1.png"
-     inkscape:export-xdpi="90.10865"
-     inkscape:export-ydpi="90.10865" />
-  <path
-     sodipodi:type="arc"
-     style="fill:#ffffff;fill-opacity:1;stroke:none"
-     id="path5704"
-     sodipodi:cx="670.38141"
-     sodipodi:cy="180.6317"
-     sodipodi:rx="1.1932427"
-     sodipodi:ry="1.1490486"
-     d="m 671.57465,180.6317 a 1.1932427,1.1490486 0 1 1 -2.38648,0 1.1932427,1.1490486 0 1 1 2.38648,0 z"
-     transform="matrix(3.4179541,0,0,3.4179541,-2272.5785,-586.87031)"
-     inkscape:export-filename="/Users/audreyr/code/cw-academy/design/django-pony/sprite/django-pony1.png"
-     inkscape:export-xdpi="90.10865"
-     inkscape:export-ydpi="90.10865" />
-  <path
-     d="m 671.57465,180.6317 a 1.1932427,1.1490486 0 1 1 -2.38648,0 1.1932427,1.1490486 0 1 1 2.38648,0 z"
-     sodipodi:ry="1.1490486"
-     sodipodi:rx="1.1932427"
-     sodipodi:cy="180.6317"
-     sodipodi:cx="670.38141"
-     id="path5706"
-     style="fill:#000000;fill-opacity:1;stroke:none"
-     sodipodi:type="arc"
-     transform="matrix(1.3924997,0,0,1.3924997,-914.7515,-221.00905)"
-     inkscape:export-filename="/Users/audreyr/code/cw-academy/design/django-pony/sprite/django-pony1.png"
-     inkscape:export-xdpi="90.10865"
-     inkscape:export-ydpi="90.10865" />
-  <path
-     style="fill:#f4d7d7;fill-opacity:1;stroke:none"
-     d="M 16.553141,21.32932 9.4820707,1 20.619001,18.67767 z"
-     id="path5714"
-     inkscape:connector-curvature="0"
-     sodipodi:nodetypes="cccc"
-     inkscape:export-filename="/Users/audreyr/code/cw-academy/design/django-pony/sprite/django-pony1.png"
-     inkscape:export-xdpi="90.10865"
-     inkscape:export-ydpi="90.10865" />
-  <path
-     style="fill:#ff7285;fill-opacity:1;stroke:none"
-     d="m 9.7604007,15.97134 9.3993803,2.99071 -3.41796,3.8452 7.6904,-1.70898 2.99071,6.40866 5.55418,-5.12693 -0.85449,10.25386 5.55417,-2.56346 2.13622,12.39008 3.41796,-2.13622 6.83591,10.25386 1.70897,-7.69039 -2.56346,-4.27245 3.8452,0.85449 -8.54489,-7.69039 2.99071,0.85448 -6.40866,-9.82661 3.8452,1.28173 -8.11765,-8.11764 4.69969,0.85449 -11.53559,-3.41796 5.12693,-2.56346 -10.68111,1.70897 -6.40866,-3.41795 2.56346,4.27244 z"
-     id="path5708"
-     inkscape:connector-curvature="0"
-     inkscape:export-filename="/Users/audreyr/code/cw-academy/design/django-pony/sprite/django-pony1.png"
-     inkscape:export-xdpi="90.10865"
-     inkscape:export-ydpi="90.10865" />
-  <path
-     style="fill:#f4d7d7;stroke:none"
-     d="m 39.180551,84.61537 -1.23743,2.47488 1.23743,0 -1.41421,4.77297 1.59099,-1.41422 -0.53033,3.18198 7.07107,0.35356 -0.17678,-2.82843 1.06066,1.23744 -1.23744,-4.5962 1.23744,0.35356 -0.53033,-2.47488 z"
-     id="path5710"
-     inkscape:connector-curvature="0"
-     inkscape:export-filename="/Users/audreyr/code/cw-academy/design/django-pony/sprite/django-pony1.png"
-     inkscape:export-xdpi="90.10865"
-     inkscape:export-ydpi="90.10865" />
-  <path
-     style="fill:#f4d7d7;fill-opacity:1;stroke:none"
-     d="m 51.100521,86.97726 -0.4375,1.8125 0.75,0 -0.75,3 1.125,-0.5 -0.5,3 5.5,0.125 -0.125,-3 1.125,1 -1.375,-3 1.125,0.25 -0.875,-2.1875 z"
-     id="path5712"
-     inkscape:connector-curvature="0"
-     sodipodi:nodetypes="ccccccccccccc"
-     inkscape:export-filename="/Users/audreyr/code/cw-academy/design/django-pony/sprite/django-pony1.png"
-     inkscape:export-xdpi="90.10865"
-     inkscape:export-ydpi="90.10865" />
-  <path
-     style="fill:#f4d7d7;fill-opacity:1;stroke:none"
-     d="m 83.350521,89.91476 -0.4375,1.5 0.75,0 -0.6875,2.5625 0.75,-0.25 -0.25,2.625 6.5,0.125 -0.375,-2.5 0.875,0.3125 -0.75,-2.4375 1,0.1875 -0.65625,-2.125 z"
-     id="path5716"
-     inkscape:connector-curvature="0"
-     sodipodi:nodetypes="ccccccccccccc"
-     inkscape:export-filename="/Users/audreyr/code/cw-academy/design/django-pony/sprite/django-pony1.png"
-     inkscape:export-xdpi="90.10865"
-     inkscape:export-ydpi="90.10865" />
-  <path
-     style="fill:#f4d7d7;fill-opacity:1;stroke:none"
-     d="m 99.734671,89.64266 -0.6029,1.7096 0.71875,-0.0312 -0.8125,2.59375 0.968749,-0.34375 -0.687499,3 7.281249,0.0625 -0.71875,-2.8125 0.75,0.4375 -1.03125,-2.71875 0.84375,0.3125 -0.3529,-1.97411 z"
-     id="path5718"
-     inkscape:connector-curvature="0"
-     sodipodi:nodetypes="ccccccccccccc"
-     inkscape:export-filename="/Users/audreyr/code/cw-academy/design/django-pony/sprite/django-pony1.png"
-     inkscape:export-xdpi="90.10865"
-     inkscape:export-ydpi="90.10865" />
-  <path
-     style="fill:#ff7285;fill-opacity:1;stroke:none"
-     d="m 38.845311,93.56848 -0.23928,2.36533 7.33623,0.48011 -0.0834,-2.47306 z"
-     id="path5720"
-     inkscape:connector-curvature="0"
-     sodipodi:nodetypes="ccccc"
-     inkscape:export-filename="/Users/audreyr/code/cw-academy/design/django-pony/sprite/django-pony1.png"
-     inkscape:export-xdpi="90.10865"
-     inkscape:export-ydpi="90.10865" />
-  <path
-     style="fill:#ff7285;fill-opacity:1;stroke:none"
-     d="m 51.289761,94.2718 -0.13258,2.33347 5.74524,0.0959 -0.0884,-2.31375 z"
-     id="path5722"
-     inkscape:connector-curvature="0"
-     sodipodi:nodetypes="ccccc"
-     inkscape:export-filename="/Users/audreyr/code/cw-academy/design/django-pony/sprite/django-pony1.png"
-     inkscape:export-xdpi="90.10865"
-     inkscape:export-ydpi="90.10865" />
-  <path
-     style="fill:#ff7285;fill-opacity:1;stroke:none"
-     d="m 83.463121,96.28263 -0.0442,2.04099 6.56284,0.22678 0,-2.12603 z"
-     id="path5724"
-     inkscape:connector-curvature="0"
-     sodipodi:nodetypes="ccccc"
-     inkscape:export-filename="/Users/audreyr/code/cw-academy/design/django-pony/sprite/django-pony1.png"
-     inkscape:export-xdpi="90.10865"
-     inkscape:export-ydpi="90.10865" />
-  <path
-     style="fill:#ff7285;fill-opacity:1;stroke:none"
-     d="m 99.328821,96.5257 0.0442,2.30005 7.380429,0.0561 -0.152,-2.28021 z"
-     id="path5726"
-     inkscape:connector-curvature="0"
-     sodipodi:nodetypes="ccccc"
-     inkscape:export-filename="/Users/audreyr/code/cw-academy/design/django-pony/sprite/django-pony1.png"
-     inkscape:export-xdpi="90.10865"
-     inkscape:export-ydpi="90.10865" />
-  <g
-     id="g5734"
-     transform="matrix(1.1759601,0,0,1.1759601,-629.94719,-139.48501)"
-     style="fill:#f4d7d7;fill-opacity:1"
-     inkscape:export-filename="/Users/audreyr/code/cw-academy/design/django-pony/sprite/django-pony1.png"
-     inkscape:export-xdpi="90.10865"
-     inkscape:export-ydpi="90.10865">
-    <path
-       inkscape:connector-curvature="0"
-       id="path5730"
-       d="m 598.6667,156.53855 c 0,0 -7.8322,2.71247 -13.7377,-0.70565 -5.9055,-3.41811 -12.2569,-24.56527 -12.2569,-24.56527 0,0 -0.6407,-0.4521 0.4736,-1.35112 1.1142,-0.89904 3.4774,4.13903 3.4774,4.13903 0,0 -1.8107,-4.46096 -0.339,-4.73323 1.4717,-0.27226 4.6706,5.16823 4.6706,5.16823 0,0 -0.4272,-4.60821 1.6017,-3.17658 2.0288,1.43163 1.495,5.3617 1.495,5.3617 0,0 0.056,-3.70575 1.4067,-3.12693 1.351,0.57883 1.9917,5.33773 1.9917,5.33773 0,0 0.5014,-3.20399 2.2285,-1.79805 1.7271,1.40595 1.0818,4.13387 1.0818,4.13387 0,0 0.5896,-3.329 2.0474,-2.67482 1.4578,0.65416 4.9168,17.51331 5.8592,17.99109 z"
-       style="fill:#f4d7d7;fill-opacity:1;stroke:none"
-       inkscape:transform-center-x="12.197592"
-       inkscape:transform-center-y="10.783378" />
-    <path
-       style="fill:#f4d7d7;fill-opacity:1;stroke:none"
-       d="m 587.3258,154.03503 c 0,0 4.8355,6.73187 11.6314,7.34385 6.7959,0.61199 24.1777,-13.00474 24.1777,-13.00474 0,0 0.7841,0 0.3921,-1.37697 -0.3921,-1.37698 -5.2276,1.37697 -5.2276,1.37697 0,0 4.0514,-2.60095 3.0058,-3.67193 -1.0455,-1.07097 -6.7959,1.52997 -6.7959,1.52997 0,0 3.0059,-3.51892 0.5228,-3.51892 -2.4831,0 -4.3128,3.51892 -4.3128,3.51892 0,0 2.0911,-3.05993 0.6535,-3.36593 -1.4376,-0.30599 -4.7049,3.21293 -4.7049,3.21293 0,0 1.4376,-2.90693 -0.7841,-2.75394 -2.2218,0.153 -3.2673,2.75394 -3.2673,2.75394 0,0 1.4376,-3.05993 -0.1307,-3.36592 -1.5683,-0.306 -14.1145,11.47477 -15.16,11.32177 z"
-       id="path5732"
-       inkscape:connector-curvature="0" />
-  </g>
-  <path
-     style="fill:#ff7285;fill-opacity:1;stroke:none"
-     d="m 97.788021,47.91476 c 0,0 0,-5.5 2.499999,-6 2.5,-0.5 8,1.25 8,1.25 l -1.75,1.75 10,3.75 -3.75,1.75 3.25,2.75 c 0,0 -5.5,2 -8.75,0.5 -3.25,-1.5 -9.499999,-5.75 -9.499999,-5.75 z"
-     id="path5738"
-     inkscape:connector-curvature="0"
-     inkscape:export-filename="/Users/audreyr/code/cw-academy/design/django-pony/sprite/django-pony1.png"
-     inkscape:export-xdpi="90.10865"
-     inkscape:export-ydpi="90.10865" />
-  <path
-     inkscape:export-ydpi="90.10865"
-     inkscape:export-xdpi="90.10865"
-     inkscape:export-filename="/Users/audreyr/code/cw-academy/design/django-pony/sprite/django-pony2.png"
-     sodipodi:nodetypes="zssccsccsccsssccssscccsssscz"
-     inkscape:connector-curvature="0"
-     id="path3671"
-     d="m 152.48072,21.41548 c -6.54456,6.18082 -16.01168,19.33485 -13.59481,24.77282 2.41684,5.43793 4.00961,7.95843 11.26018,6.75001 7.25057,-1.20841 16.63737,-8.70929 16.63737,-8.70929 l 7.14691,15.8562 c 0,0 -1.81265,6.64635 -0.60423,9.06322 1.20842,2.41687 4.22951,14.50115 4.22951,14.50115 l 7.25058,1.20842 c 0,0 -2.41687,-10.87587 1.20842,-10.87587 3.62528,0 3.62528,12.08432 3.62528,12.08432 l 5.43793,0.60419 c 0,0 -1.20841,-12.68851 1.81265,-14.50115 3.02106,-1.81264 22.96017,-0.60419 22.96017,4.22951 0,4.83371 0.32739,6.20667 1.20842,8.76111 0.5897,1.70976 0.85487,3.84694 0.85487,3.84694 l 6.64638,0 c 0,0 0.25715,-5.28012 -1.45909,-9.28487 -1.81265,-4.22948 -0.30215,-6.34424 0.30214,-6.34424 0.60423,0 2.71895,-1.81264 5.13582,0 2.41684,1.81265 3.62529,4.22948 4.22948,7.25058 0.60423,3.02106 1.45909,8.07642 1.45909,8.07642 l 6.3667,0.17678 c 0,0 -0.25064,-5.65959 -0.85487,-8.07642 -0.60422,-2.41687 -2.13718,-4.4063 -2.74141,-9.84423 -0.60422,-5.43793 0.98851,-18.30341 -2.03255,-23.74135 -3.02106,-5.43793 -48.11727,-1.03143 -52.95098,-5.26094 -4.8337,-4.22952 -6.64635,-15.7096 -9.66744,-19.33489 -5.53073,-11.87305 -17.32195,-7.38928 -23.86652,-1.20842 z"
-     style="fill:#ffaaaa;stroke:none" />
-  <path
-     inkscape:export-ydpi="90.10865"
-     inkscape:export-xdpi="90.10865"
-     inkscape:export-filename="/Users/audreyr/code/cw-academy/design/django-pony/sprite/django-pony2.png"
-     transform="matrix(3.4179541,0,0,3.4179541,-2134.0785,-587.87031)"
-     d="m 671.57465,180.6317 a 1.1932427,1.1490486 0 1 1 -2.38648,0 1.1932427,1.1490486 0 1 1 2.38648,0 z"
-     sodipodi:ry="1.1490486"
-     sodipodi:rx="1.1932427"
-     sodipodi:cy="180.6317"
-     sodipodi:cx="670.38141"
-     id="path3673"
-     style="fill:#ffffff;fill-opacity:1;stroke:none"
-     sodipodi:type="arc" />
-  <path
-     inkscape:export-ydpi="90.10865"
-     inkscape:export-xdpi="90.10865"
-     inkscape:export-filename="/Users/audreyr/code/cw-academy/design/django-pony/sprite/django-pony2.png"
-     transform="matrix(1.3924997,0,0,1.3924997,-776.2515,-222.00905)"
-     sodipodi:type="arc"
-     style="fill:#000000;fill-opacity:1;stroke:none"
-     id="path3675"
-     sodipodi:cx="670.38141"
-     sodipodi:cy="180.6317"
-     sodipodi:rx="1.1932427"
-     sodipodi:ry="1.1490486"
-     d="m 671.57465,180.6317 a 1.1932427,1.1490486 0 1 1 -2.38648,0 1.1932427,1.1490486 0 1 1 2.38648,0 z" />
-  <path
-     inkscape:export-ydpi="90.10865"
-     inkscape:export-xdpi="90.10865"
-     inkscape:export-filename="/Users/audreyr/code/cw-academy/design/django-pony/sprite/django-pony2.png"
-     sodipodi:nodetypes="cccc"
-     inkscape:connector-curvature="0"
-     id="path3677"
-     d="M 155.05314,20.32932 147.98207,0 159.119,17.67767 z"
-     style="fill:#f4d7d7;fill-opacity:1;stroke:none" />
-  <path
-     inkscape:export-ydpi="90.10865"
-     inkscape:export-xdpi="90.10865"
-     inkscape:export-filename="/Users/audreyr/code/cw-academy/design/django-pony/sprite/django-pony2.png"
-     inkscape:connector-curvature="0"
-     id="path3679"
-     d="m 148.2604,14.97134 9.39938,2.99071 -3.41796,3.8452 7.6904,-1.70898 2.99071,6.40866 5.55418,-5.12693 -0.85449,10.25386 5.55417,-2.56346 2.13622,12.39008 3.41796,-2.13622 6.83591,10.25386 1.70897,-7.69039 -2.56346,-4.27245 3.8452,0.85449 -8.54489,-7.69039 2.99071,0.85448 -6.40866,-9.82661 3.8452,1.28173 -8.11765,-8.11764 4.69969,0.85449 -11.53559,-3.41796 5.12693,-2.56346 -10.68111,1.70897 -6.40866,-3.41795 2.56346,4.27244 z"
-     style="fill:#ff7285;fill-opacity:1;stroke:none" />
-  <path
-     inkscape:export-ydpi="90.10865"
-     inkscape:export-xdpi="90.10865"
-     inkscape:export-filename="/Users/audreyr/code/cw-academy/design/django-pony/sprite/django-pony2.png"
-     inkscape:connector-curvature="0"
-     id="path3681"
-     d="m 177.68055,83.61537 -1.23743,2.47488 1.23743,0 -1.41421,4.77297 1.59099,-1.41422 -0.53033,3.18198 7.07107,0.35356 -0.17678,-2.82843 1.06066,1.23744 -1.23744,-4.5962 1.23744,0.35356 -0.53033,-2.47488 z"
-     style="fill:#f4d7d7;stroke:none" />
-  <path
-     inkscape:export-ydpi="90.10865"
-     inkscape:export-xdpi="90.10865"
-     inkscape:export-filename="/Users/audreyr/code/cw-academy/design/django-pony/sprite/django-pony2.png"
-     sodipodi:nodetypes="ccccccccccccc"
-     inkscape:connector-curvature="0"
-     id="path3683"
-     d="m 189.60052,85.97726 -0.4375,1.8125 0.75,0 -0.75,3 1.125,-0.5 -0.5,3 5.5,0.125 -0.125,-3 1.125,1 -1.375,-3 1.125,0.25 -0.875,-2.1875 z"
-     style="fill:#f4d7d7;fill-opacity:1;stroke:none" />
-  <path
-     inkscape:export-ydpi="90.10865"
-     inkscape:export-xdpi="90.10865"
-     inkscape:export-filename="/Users/audreyr/code/cw-academy/design/django-pony/sprite/django-pony2.png"
-     sodipodi:nodetypes="ccccccccccccc"
-     inkscape:connector-curvature="0"
-     id="path3685"
-     d="m 221.85052,88.91476 -0.4375,1.5 0.75,0 -0.6875,2.5625 0.75,-0.25 -0.25,2.625 6.5,0.125 -0.375,-2.5 0.875,0.3125 -0.75,-2.4375 1,0.1875 -0.65625,-2.125 z"
-     style="fill:#f4d7d7;fill-opacity:1;stroke:none" />
-  <path
-     inkscape:export-ydpi="90.10865"
-     inkscape:export-xdpi="90.10865"
-     inkscape:export-filename="/Users/audreyr/code/cw-academy/design/django-pony/sprite/django-pony2.png"
-     sodipodi:nodetypes="ccccccccccccc"
-     inkscape:connector-curvature="0"
-     id="path3687"
-     d="m 238.23467,88.64266 -0.6029,1.7096 0.71875,-0.0312 -0.8125,2.59375 0.96875,-0.34375 -0.6875,3 7.28125,0.0625 -0.71875,-2.8125 0.75,0.4375 -1.03125,-2.71875 0.84375,0.3125 -0.3529,-1.97411 z"
-     style="fill:#f4d7d7;fill-opacity:1;stroke:none" />
-  <path
-     inkscape:export-ydpi="90.10865"
-     inkscape:export-xdpi="90.10865"
-     inkscape:export-filename="/Users/audreyr/code/cw-academy/design/django-pony/sprite/django-pony2.png"
-     sodipodi:nodetypes="ccccc"
-     inkscape:connector-curvature="0"
-     id="path3689"
-     d="m 177.34531,92.56848 -0.23928,2.36533 7.33623,0.48011 -0.0834,-2.47306 z"
-     style="fill:#ff7285;fill-opacity:1;stroke:none" />
-  <path
-     inkscape:export-ydpi="90.10865"
-     inkscape:export-xdpi="90.10865"
-     inkscape:export-filename="/Users/audreyr/code/cw-academy/design/django-pony/sprite/django-pony2.png"
-     sodipodi:nodetypes="ccccc"
-     inkscape:connector-curvature="0"
-     id="path3691"
-     d="m 189.78976,93.2718 -0.13258,2.33347 5.74524,0.0959 -0.0884,-2.31375 z"
-     style="fill:#ff7285;fill-opacity:1;stroke:none" />
-  <path
-     inkscape:export-ydpi="90.10865"
-     inkscape:export-xdpi="90.10865"
-     inkscape:export-filename="/Users/audreyr/code/cw-academy/design/django-pony/sprite/django-pony2.png"
-     sodipodi:nodetypes="ccccc"
-     inkscape:connector-curvature="0"
-     id="path3693"
-     d="m 221.96312,95.28263 -0.0442,2.04099 6.56284,0.22678 0,-2.12603 z"
-     style="fill:#ff7285;fill-opacity:1;stroke:none" />
-  <path
-     inkscape:export-ydpi="90.10865"
-     inkscape:export-xdpi="90.10865"
-     inkscape:export-filename="/Users/audreyr/code/cw-academy/design/django-pony/sprite/django-pony2.png"
-     sodipodi:nodetypes="ccccc"
-     inkscape:connector-curvature="0"
-     id="path3695"
-     d="m 237.82882,95.5257 0.0442,2.30005 7.38043,0.0561 -0.152,-2.28021 z"
-     style="fill:#ff7285;fill-opacity:1;stroke:none" />
-  <path
-     inkscape:connector-curvature="0"
-     id="path3699"
-     d="m 212.5382,42.66768 c 0,0 -8.91362,3.94368 -16.16809,0.51476 -7.25448,-3.4289 -16.76302,-27.59089 -16.76302,-27.59089 0,0 -0.79499,-0.46724 0.42305,-1.62963 1.21792,-1.16241 4.4794,4.51089 4.4794,4.51089 0,0 -2.55764,-5.05094 -0.85955,-5.51375 1.69809,-0.46279 5.97823,5.60047 5.97823,5.60047 0,0 -0.9507,-5.35862 1.56678,-3.87905 2.51736,1.47958 2.27564,6.13736 2.27564,6.13736 0,0 -0.29626,-4.34824 1.34312,-3.80184 1.63976,0.54638 2.85538,6.06076 2.85538,6.06076 0,0 0.27466,-3.80372 2.43596,-2.32478 2.1613,1.47895 1.6715,4.73881 1.6715,4.73881 0,0 0.36582,-3.95883 2.1381,-3.33457 1.77228,0.62423 7.47244,20.04359 8.6235,20.51146 z"
-     style="fill:#f4d7d7;fill-opacity:1;stroke:none"
-     inkscape:transform-center-x="5.4212678"
-     inkscape:transform-center-y="-14.647814"
-     inkscape:export-filename="/Users/audreyr/code/cw-academy/design/django-pony/sprite/django-pony2.png"
-     inkscape:export-xdpi="90.10865"
-     inkscape:export-ydpi="90.10865" />
-  <path
-     style="fill:#f4d7d7;fill-opacity:1;stroke:none"
-     d="m 199.52267,40.41858 c 0,0 4.80946,8.47781 12.67881,10.04585 7.86934,1.56805 29.90111,-12.17294 29.90111,-12.17294 0,0 0.91681,0.0983 0.63118,-1.56084 -0.28573,-1.65922 -6.2851,0.95427 -6.2851,0.95427 0,0 5.06337,-2.53295 3.97515,-3.91635 -1.08811,-1.38339 -8.13803,0.93644 -8.13803,0.93644 0,0 3.95607,-3.73744 1.0527,-4.04892 -2.90337,-0.31148 -5.48416,3.5735 -5.48416,3.5735 0,0 2.82886,-3.31552 1.18633,-3.85364 -1.64253,-0.53812 -5.90425,3.16653 -5.90425,3.16653 0,0 2.04557,-3.2186 -0.57135,-3.31841 -2.61702,-0.0998 -4.16574,2.8102 -4.16574,2.8102 0,0 2.06475,-3.39749 0.2694,-3.952 -1.79536,-0.55452 -17.94279,11.64635 -19.14605,11.33631 z"
-     id="path3701"
-     inkscape:connector-curvature="0"
-     inkscape:transform-center-x="-19.581164"
-     inkscape:transform-center-y="-3.4969171"
-     inkscape:export-filename="/Users/audreyr/code/cw-academy/design/django-pony/sprite/django-pony2.png"
-     inkscape:export-xdpi="90.10865"
-     inkscape:export-ydpi="90.10865" />
-  <path
-     inkscape:export-ydpi="90.10865"
-     inkscape:export-xdpi="90.10865"
-     inkscape:export-filename="/Users/audreyr/code/cw-academy/design/django-pony/sprite/django-pony2.png"
-     inkscape:connector-curvature="0"
-     id="path3703"
-     d="m 236.28802,46.91476 c 0,0 0,-5.5 2.5,-6 2.5,-0.5 8,1.25 8,1.25 l -1.75,1.75 10,3.75 -3.75,1.75 3.25,2.75 c 0,0 -5.5,2 -8.75,0.5 -3.25,-1.5 -9.5,-5.75 -9.5,-5.75 z"
-     style="fill:#ff7285;fill-opacity:1;stroke:none" />
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 15.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1"
+	 id="svg3093" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" inkscape:version="0.48.1 r9760" sodipodi:docname="pony.svg"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="255.039px"
+	 height="98.882px" viewBox="0 0 255.039 98.882" enable-background="new 0 0 255.039 98.882" xml:space="preserve">
+<defs>
+	
+	
+		<inkscape:perspective  inkscape:persp3d-origin="372.04724 : 350.78739 : 1" id="perspective10836-3" inkscape:vp_z="744.09448 : 526.18109 : 1" inkscape:vp_y="0 : 1000 : 0" inkscape:vp_x="0 : 526.18109 : 1" sodipodi:type="inkscape:persp3d">
+		</inkscape:perspective>
+	
+		<inkscape:perspective  inkscape:persp3d-origin="0.5 : 0.33333333 : 1" id="perspective10704-4" inkscape:vp_z="1 : 0.5 : 1" inkscape:vp_y="0 : 1000 : 0" inkscape:vp_x="0 : 0.5 : 1" sodipodi:type="inkscape:persp3d">
+		</inkscape:perspective>
+	
+		<inkscape:perspective  inkscape:persp3d-origin="0.5 : 0.33333333 : 1" id="perspective10704" inkscape:vp_z="1 : 0.5 : 1" inkscape:vp_y="0 : 1000 : 0" inkscape:vp_x="0 : 0.5 : 1" sodipodi:type="inkscape:persp3d">
+		</inkscape:perspective>
+	
+		<inkscape:perspective  inkscape:persp3d-origin="372.04724 : 350.78739 : 1" id="perspective10836" inkscape:vp_z="744.09448 : 526.18109 : 1" inkscape:vp_y="0 : 1000 : 0" inkscape:vp_x="0 : 526.18109 : 1" sodipodi:type="inkscape:persp3d">
+		</inkscape:perspective>
+</defs>
+<sodipodi:namedview  id="namedview3095" fit-margin-bottom="0" fit-margin-right="0" fit-margin-left="0" inkscape:guide-bbox="true" showguides="true" inkscape:current-layer="svg3093" inkscape:window-maximized="1" inkscape:window-y="0" inkscape:window-x="0" inkscape:cy="6.18234" inkscape:cx="109.07953" fit-margin-top="0" inkscape:zoom="1" showgrid="false" inkscape:window-height="852" inkscape:window-width="1440" inkscape:pageshadow="2" inkscape:pageopacity="0" guidetolerance="10" gridtolerance="10" objecttolerance="10" pagecolor="#ffffff" bordercolor="#666666" borderopacity="1">
+	<sodipodi:guide  id="guide4335" orientation="1,0" position="-418.32468,-209.8025"></sodipodi:guide>
+</sodipodi:namedview>
+<g id="layer1" transform="translate(-387.21198,345.66476)" inkscape:groupmode="layer" inkscape:label="Layer">
+</g>
+<g id="layer2" transform="translate(-387.21198,345.66476)" inkscape:groupmode="layer" inkscape:label="fun">
+</g>
+<path id="path5702" inkscape:connector-curvature="0" inkscape:export-filename="/Users/audreyr/code/cw-academy/design/django-pony/sprite/django-pony1.png" sodipodi:nodetypes="zssccsccsccsssccssscccsssscz" inkscape:export-xdpi="90.10865" inkscape:export-ydpi="90.10865" fill="#FFAAAA" d="
+	M13.981,22.416C7.436,28.596-2.031,41.75,0.386,47.188c2.417,5.438,4.01,7.958,11.26,6.75c7.25-1.209,16.638-8.71,16.638-8.71
+	l7.146,15.856c0,0-1.812,6.646-0.604,9.062c1.208,2.418,4.229,14.502,4.229,14.502l7.25,1.208c0,0-2.417-10.876,1.208-10.876
+	s3.625,12.084,3.625,12.084l5.438,0.605c0,0-1.208-12.689,1.813-14.502s22.96-0.604,22.96,4.229c0,4.834,0.328,6.206,1.208,8.761
+	c0.59,1.711,0.855,3.848,0.855,3.848h6.646c0,0,0.257-5.28-1.459-9.285c-1.812-4.229-0.302-6.344,0.302-6.344
+	c0.604,0,2.719-1.812,5.136,0c2.417,1.812,3.625,4.229,4.229,7.25c0.604,3.021,1.459,8.076,1.459,8.076l6.367,0.178
+	c0,0-0.251-5.66-0.855-8.077c-0.604-2.417-2.137-4.406-2.742-9.845c-0.604-5.438,0.989-18.303-2.032-23.741
+	s-48.117-1.031-52.951-5.261c-4.833-4.229-6.646-15.71-9.667-19.335C32.316,11.751,20.525,16.234,13.981,22.416z"/>
+<path id="path5704" sodipodi:type="arc" inkscape:export-filename="/Users/audreyr/code/cw-academy/design/django-pony/sprite/django-pony1.png" inkscape:export-xdpi="90.10865" inkscape:export-ydpi="90.10865" sodipodi:cx="670.38141" sodipodi:cy="180.6317" sodipodi:rx="1.1932427" sodipodi:ry="1.1490486" fill="#FFFFFF" d="
+	M22.833,30.521c0.006,2.169-1.814,3.933-4.066,3.939c-2.252,0.006-4.084-1.747-4.091-3.916c0-0.008,0-0.016,0-0.023
+	c-0.007-2.169,1.813-3.933,4.066-3.939c2.252-0.007,4.084,1.747,4.091,3.916C22.833,30.505,22.833,30.513,22.833,30.521z"/>
+<path id="path5706" sodipodi:type="arc" inkscape:export-filename="/Users/audreyr/code/cw-academy/design/django-pony/sprite/django-pony1.png" inkscape:export-xdpi="90.10865" inkscape:export-ydpi="90.10865" sodipodi:cx="670.38141" sodipodi:cy="180.6317" sodipodi:rx="1.1932427" sodipodi:ry="1.1490486" d="
+	M20.416,30.521c0.003,0.884-0.739,1.602-1.657,1.605c-0.917,0.002-1.664-0.711-1.667-1.595c0-0.003,0-0.006,0-0.01
+	c-0.003-0.884,0.739-1.602,1.657-1.605c0.917-0.002,1.664,0.712,1.667,1.595C20.416,30.514,20.416,30.518,20.416,30.521z"/>
+<path id="path5708" inkscape:connector-curvature="0" inkscape:export-filename="/Users/audreyr/code/cw-academy/design/django-pony/sprite/django-pony1.png" inkscape:export-xdpi="90.10865" inkscape:export-ydpi="90.10865" fill="#FF7285" d="
+	M9.76,15.971l9.399,2.991l-3.418,3.845l7.69-1.709l2.991,6.409l5.554-5.127l-0.854,10.254l5.554-2.563l2.136,12.39l3.418-2.136
+	l6.836,10.253l1.709-7.69l-2.563-4.272l3.845,0.854l-8.545-7.69l2.991,0.854l-6.409-9.827l3.845,1.282l-8.118-8.118l4.7,0.854
+	l-11.536-3.418l5.127-2.563l-10.681,1.709l-6.409-3.418l2.563,4.272L9.76,15.971z"/>
+<path id="path5710" inkscape:connector-curvature="0" inkscape:export-filename="/Users/audreyr/code/cw-academy/design/django-pony/sprite/django-pony1.png" inkscape:export-xdpi="90.10865" inkscape:export-ydpi="90.10865" fill="#F4D7D7" d="
+	M39.181,84.615l-1.237,2.476h1.237l-1.415,4.772l1.591-1.414l-0.53,3.182l7.071,0.354l-0.177-2.828l1.061,1.238l-1.237-4.597
+	l1.237,0.354l-0.53-2.476L39.181,84.615z"/>
+<path id="path5712" inkscape:connector-curvature="0" inkscape:export-filename="/Users/audreyr/code/cw-academy/design/django-pony/sprite/django-pony1.png" sodipodi:nodetypes="ccccccccccccc" inkscape:export-xdpi="90.10865" inkscape:export-ydpi="90.10865" fill="#F4D7D7" d="
+	M51.101,86.977l-0.438,1.812h0.75l-0.75,3l1.125-0.5l-0.5,3l5.5,0.125l-0.125-3l1.125,1l-1.375-3l1.125,0.25l-0.875-2.188
+	L51.101,86.977z"/>
+<path id="path5716" inkscape:connector-curvature="0" inkscape:export-filename="/Users/audreyr/code/cw-academy/design/django-pony/sprite/django-pony1.png" sodipodi:nodetypes="ccccccccccccc" inkscape:export-xdpi="90.10865" inkscape:export-ydpi="90.10865" fill="#F4D7D7" d="
+	M83.351,89.915l-0.438,1.5h0.75l-0.688,2.562l0.75-0.25l-0.25,2.625l6.5,0.125l-0.375-2.5l0.875,0.312l-0.75-2.438l1,0.188
+	l-0.656-2.125H83.351z"/>
+<path id="path5718" inkscape:connector-curvature="0" inkscape:export-filename="/Users/audreyr/code/cw-academy/design/django-pony/sprite/django-pony1.png" sodipodi:nodetypes="ccccccccccccc" inkscape:export-xdpi="90.10865" inkscape:export-ydpi="90.10865" fill="#F4D7D7" d="
+	M99.735,89.642l-0.603,1.711l0.719-0.031l-0.812,2.594l0.969-0.344l-0.688,3l7.281,0.062l-0.719-2.812l0.75,0.438l-1.031-2.719
+	l0.844,0.312l-0.353-1.975L99.735,89.642z"/>
+<path id="path5720" inkscape:connector-curvature="0" inkscape:export-filename="/Users/audreyr/code/cw-academy/design/django-pony/sprite/django-pony1.png" sodipodi:nodetypes="ccccc" inkscape:export-xdpi="90.10865" inkscape:export-ydpi="90.10865" fill="#FF7285" d="
+	M38.845,93.568l-0.239,2.365l7.336,0.48l-0.083-2.473L38.845,93.568z"/>
+<path id="path5722" inkscape:connector-curvature="0" inkscape:export-filename="/Users/audreyr/code/cw-academy/design/django-pony/sprite/django-pony1.png" sodipodi:nodetypes="ccccc" inkscape:export-xdpi="90.10865" inkscape:export-ydpi="90.10865" fill="#FF7285" d="
+	M51.29,94.272l-0.132,2.333l5.745,0.096l-0.088-2.312L51.29,94.272z"/>
+<path id="path5724" inkscape:connector-curvature="0" inkscape:export-filename="/Users/audreyr/code/cw-academy/design/django-pony/sprite/django-pony1.png" sodipodi:nodetypes="ccccc" inkscape:export-xdpi="90.10865" inkscape:export-ydpi="90.10865" fill="#FF7285" d="
+	M83.463,96.283l-0.044,2.041l6.563,0.227v-2.126L83.463,96.283z"/>
+<path id="path5726" inkscape:connector-curvature="0" inkscape:export-filename="/Users/audreyr/code/cw-academy/design/django-pony/sprite/django-pony1.png" sodipodi:nodetypes="ccccc" inkscape:export-xdpi="90.10865" inkscape:export-ydpi="90.10865" fill="#FF7285" d="
+	M99.329,96.526l0.044,2.3l7.38,0.057l-0.152-2.281L99.329,96.526z"/>
+<g id="g5734" transform="matrix(1.1759601,0,0,1.1759601,-629.94719,-139.48501)" inkscape:export-filename="/Users/audreyr/code/cw-academy/design/django-pony/sprite/django-pony1.png" inkscape:export-xdpi="90.10865" inkscape:export-ydpi="90.10865">
+	
+		<path id="path5730" inkscape:transform-center-y="10.783378" inkscape:transform-center-x="12.197592" inkscape:connector-curvature="0" fill="#F4D7D7" d="
+		M598.667,156.539c0,0-7.832,2.713-13.738-0.705c-5.905-3.418-12.257-24.566-12.257-24.566s-0.641-0.452,0.474-1.351
+		c1.114-0.899,3.477,4.139,3.477,4.139s-1.811-4.461-0.339-4.733c1.472-0.272,4.671,5.168,4.671,5.168s-0.427-4.608,1.602-3.176
+		s1.495,5.362,1.495,5.362s0.056-3.706,1.407-3.127c1.351,0.579,1.991,5.338,1.991,5.338s0.502-3.204,2.228-1.798
+		c1.727,1.406,1.082,4.134,1.082,4.134s0.59-3.329,2.047-2.675C594.266,139.202,597.724,156.061,598.667,156.539z"/>
+	<path id="path5732" inkscape:connector-curvature="0" fill="#F4D7D7" d="M587.326,154.035c0,0,4.835,6.732,11.631,7.344
+		c6.796,0.611,24.178-13.005,24.178-13.005s0.784,0,0.392-1.377c-0.392-1.377-5.227,1.377-5.227,1.377s4.051-2.601,3.005-3.672
+		c-1.045-1.071-6.796,1.53-6.796,1.53s3.006-3.519,0.523-3.519c-2.483,0-4.313,3.519-4.313,3.519s2.091-3.06,0.654-3.366
+		c-1.438-0.306-4.705,3.213-4.705,3.213s1.438-2.907-0.784-2.754c-2.222,0.153-3.267,2.754-3.267,2.754s1.438-3.06-0.13-3.366
+		C600.918,142.407,588.371,154.188,587.326,154.035L587.326,154.035z"/>
+</g>
+<path id="path5738" inkscape:connector-curvature="0" inkscape:export-filename="/Users/audreyr/code/cw-academy/design/django-pony/sprite/django-pony1.png" inkscape:export-xdpi="90.10865" inkscape:export-ydpi="90.10865" fill="#FF7285" d="
+	M97.788,47.915c0,0,0-5.5,2.5-6s8,1.25,8,1.25l-1.75,1.75l10,3.75l-3.75,1.75l3.25,2.75c0,0-5.5,2-8.75,0.5
+	S97.788,47.915,97.788,47.915z"/>
+<path id="path3671" inkscape:connector-curvature="0" inkscape:export-filename="/Users/audreyr/code/cw-academy/design/django-pony/sprite/django-pony2.png" sodipodi:nodetypes="zssccsccsccsssccssscccsssscz" inkscape:export-xdpi="90.10865" inkscape:export-ydpi="90.10865" fill="#FFAAAA" d="
+	M152.48,21.415c-6.544,6.181-16.011,19.335-13.594,24.773c2.416,5.438,4.01,7.958,11.26,6.75c7.25-1.209,16.637-8.71,16.637-8.71
+	l7.147,15.856c0,0-1.812,6.646-0.604,9.062c1.209,2.418,4.23,14.502,4.23,14.502l7.25,1.208c0,0-2.417-10.876,1.209-10.876
+	c3.625,0,3.625,12.084,3.625,12.084l5.438,0.605c0,0-1.208-12.689,1.812-14.502c3.021-1.812,22.961-0.604,22.961,4.229
+	c0,4.834,0.327,6.206,1.208,8.761c0.59,1.711,0.854,3.848,0.854,3.848h6.646c0,0,0.258-5.28-1.459-9.285
+	c-1.812-4.229-0.302-6.344,0.303-6.344c0.604,0,2.719-1.812,5.135,0c2.418,1.812,3.626,4.229,4.23,7.25
+	c0.604,3.021,1.459,8.076,1.459,8.076l6.367,0.178c0,0-0.252-5.66-0.855-8.077c-0.604-2.417-2.137-4.406-2.742-9.845
+	c-0.604-5.438,0.989-18.303-2.031-23.741c-3.021-5.438-48.117-1.031-52.951-5.261s-6.646-15.71-9.668-19.335
+	C170.816,10.751,159.025,15.234,152.48,21.415L152.48,21.415z"/>
+<path id="path3673" sodipodi:type="arc" inkscape:export-filename="/Users/audreyr/code/cw-academy/design/django-pony/sprite/django-pony2.png" inkscape:export-xdpi="90.10865" inkscape:export-ydpi="90.10865" sodipodi:cx="670.38141" sodipodi:cy="180.6317" sodipodi:rx="1.1932427" sodipodi:ry="1.1490486" fill="#FFFFFF" d="
+	M161.333,29.52c0.006,2.169-1.814,3.933-4.066,3.939c-2.253,0.006-4.084-1.747-4.092-3.916c0-0.008,0-0.016,0-0.023
+	c-0.006-2.169,1.814-3.933,4.066-3.939c2.252-0.007,4.084,1.747,4.092,3.916C161.333,29.505,161.333,29.513,161.333,29.52z"/>
+<path id="path3675" sodipodi:type="arc" inkscape:export-filename="/Users/audreyr/code/cw-academy/design/django-pony/sprite/django-pony2.png" inkscape:export-xdpi="90.10865" inkscape:export-ydpi="90.10865" sodipodi:cx="670.38141" sodipodi:cy="180.6317" sodipodi:rx="1.1932427" sodipodi:ry="1.1490486" d="
+	M158.916,29.52c0.004,0.884-0.738,1.602-1.656,1.605c-0.918,0.002-1.664-0.711-1.666-1.595c0-0.003,0-0.006,0-0.01
+	c-0.004-0.884,0.738-1.602,1.656-1.605c0.918-0.002,1.664,0.712,1.666,1.595C158.916,29.514,158.916,29.518,158.916,29.52z"/>
+<path id="path3679" inkscape:connector-curvature="0" inkscape:export-filename="/Users/audreyr/code/cw-academy/design/django-pony/sprite/django-pony2.png" inkscape:export-xdpi="90.10865" inkscape:export-ydpi="90.10865" fill="#FF7285" d="
+	M148.26,14.971l9.399,2.991l-3.418,3.845l7.69-1.709l2.991,6.409l5.554-5.127l-0.854,10.254l5.555-2.563l2.136,12.39l3.418-2.136
+	l6.836,10.254l1.709-7.69l-2.563-4.272l3.846,0.854l-8.545-7.69l2.99,0.854l-6.408-9.827l3.845,1.282l-8.118-8.118l4.7,0.854
+	l-11.536-3.418l5.127-2.563l-10.681,1.709l-6.409-3.418l2.564,4.272L148.26,14.971z"/>
+<path id="path3681" inkscape:connector-curvature="0" inkscape:export-filename="/Users/audreyr/code/cw-academy/design/django-pony/sprite/django-pony2.png" inkscape:export-xdpi="90.10865" inkscape:export-ydpi="90.10865" fill="#F4D7D7" d="
+	M177.681,83.615l-1.238,2.476h1.238l-1.414,4.772l1.59-1.414l-0.529,3.182l7.07,0.354l-0.177-2.828l1.061,1.238l-1.237-4.597
+	l1.237,0.354l-0.53-2.476L177.681,83.615z"/>
+<path id="path3683" inkscape:connector-curvature="0" inkscape:export-filename="/Users/audreyr/code/cw-academy/design/django-pony/sprite/django-pony2.png" sodipodi:nodetypes="ccccccccccccc" inkscape:export-xdpi="90.10865" inkscape:export-ydpi="90.10865" fill="#F4D7D7" d="
+	M189.601,85.977l-0.438,1.812h0.75l-0.75,3l1.125-0.5l-0.5,3l5.5,0.125l-0.125-3l1.125,1l-1.375-3l1.125,0.25l-0.875-2.188
+	L189.601,85.977z"/>
+<path id="path3685" inkscape:connector-curvature="0" inkscape:export-filename="/Users/audreyr/code/cw-academy/design/django-pony/sprite/django-pony2.png" sodipodi:nodetypes="ccccccccccccc" inkscape:export-xdpi="90.10865" inkscape:export-ydpi="90.10865" fill="#F4D7D7" d="
+	M221.851,88.915l-0.438,1.5h0.75l-0.688,2.562l0.75-0.25l-0.25,2.625l6.5,0.125l-0.375-2.5l0.875,0.312l-0.75-2.438l1,0.188
+	l-0.656-2.125H221.851z"/>
+<path id="path3687" inkscape:connector-curvature="0" inkscape:export-filename="/Users/audreyr/code/cw-academy/design/django-pony/sprite/django-pony2.png" sodipodi:nodetypes="ccccccccccccc" inkscape:export-xdpi="90.10865" inkscape:export-ydpi="90.10865" fill="#F4D7D7" d="
+	M238.235,88.642l-0.603,1.711l0.719-0.031l-0.812,2.594l0.969-0.344l-0.688,3l7.281,0.062l-0.719-2.812l0.75,0.438l-1.031-2.719
+	l0.844,0.312l-0.354-1.975L238.235,88.642z"/>
+<path id="path3689" inkscape:connector-curvature="0" inkscape:export-filename="/Users/audreyr/code/cw-academy/design/django-pony/sprite/django-pony2.png" sodipodi:nodetypes="ccccc" inkscape:export-xdpi="90.10865" inkscape:export-ydpi="90.10865" fill="#FF7285" d="
+	M177.345,92.568l-0.239,2.365l7.337,0.48l-0.084-2.473L177.345,92.568z"/>
+<path id="path3691" inkscape:connector-curvature="0" inkscape:export-filename="/Users/audreyr/code/cw-academy/design/django-pony/sprite/django-pony2.png" sodipodi:nodetypes="ccccc" inkscape:export-xdpi="90.10865" inkscape:export-ydpi="90.10865" fill="#FF7285" d="
+	M189.79,93.272l-0.132,2.333l5.744,0.096l-0.088-2.312L189.79,93.272z"/>
+<path id="path3693" inkscape:connector-curvature="0" inkscape:export-filename="/Users/audreyr/code/cw-academy/design/django-pony/sprite/django-pony2.png" sodipodi:nodetypes="ccccc" inkscape:export-xdpi="90.10865" inkscape:export-ydpi="90.10865" fill="#FF7285" d="
+	M221.962,95.283l-0.043,2.041l6.562,0.227v-2.126L221.962,95.283z"/>
+<path id="path3695" inkscape:connector-curvature="0" inkscape:export-filename="/Users/audreyr/code/cw-academy/design/django-pony/sprite/django-pony2.png" sodipodi:nodetypes="ccccc" inkscape:export-xdpi="90.10865" inkscape:export-ydpi="90.10865" fill="#FF7285" d="
+	M237.829,95.526l0.044,2.3l7.381,0.057l-0.152-2.281L237.829,95.526z"/>
+<path id="path3699" inkscape:transform-center-y="-14.647814" inkscape:transform-center-x="5.4212678" inkscape:connector-curvature="0" inkscape:export-filename="/Users/audreyr/code/cw-academy/design/django-pony/sprite/django-pony2.png" inkscape:export-xdpi="90.10865" inkscape:export-ydpi="90.10865" fill="#F4D7D7" d="
+	M212.539,42.667c0,0-8.914,3.944-16.168,0.515c-7.255-3.429-16.764-27.591-16.764-27.591s-0.795-0.467,0.424-1.63
+	c1.217-1.163,4.479,4.511,4.479,4.511s-2.557-5.051-0.859-5.514c1.698-0.463,5.979,5.601,5.979,5.601s-0.951-5.358,1.566-3.879
+	s2.275,6.137,2.275,6.137s-0.296-4.348,1.344-3.802s2.855,6.061,2.855,6.061s0.274-3.804,2.436-2.325
+	c2.162,1.479,1.672,4.739,1.672,4.739s0.365-3.958,2.138-3.334S211.387,42.2,212.539,42.667z"/>
+<path id="path3701" inkscape:transform-center-y="-3.4969171" inkscape:transform-center-x="-19.581164" inkscape:connector-curvature="0" inkscape:export-filename="/Users/audreyr/code/cw-academy/design/django-pony/sprite/django-pony2.png" inkscape:export-xdpi="90.10865" inkscape:export-ydpi="90.10865" fill="#F4D7D7" d="
+	M199.523,40.418c0,0,4.809,8.478,12.679,10.046c7.869,1.568,29.901-12.173,29.901-12.173s0.916,0.098,0.631-1.561
+	s-6.285,0.955-6.285,0.955s5.063-2.533,3.975-3.917c-1.088-1.383-8.138,0.937-8.138,0.937s3.956-3.737,1.053-4.049
+	s-5.483,3.573-5.483,3.573s2.828-3.315,1.186-3.854s-5.904,3.167-5.904,3.167s2.046-3.219-0.571-3.318
+	c-2.616-0.1-4.165,2.81-4.165,2.81s2.064-3.397,0.27-3.952C216.874,28.528,200.726,40.728,199.523,40.418L199.523,40.418z"/>
+<path id="path3703" inkscape:connector-curvature="0" inkscape:export-filename="/Users/audreyr/code/cw-academy/design/django-pony/sprite/django-pony2.png" inkscape:export-xdpi="90.10865" inkscape:export-ydpi="90.10865" fill="#FF7285" d="
+	M236.289,46.915c0,0,0-5.5,2.5-6s8,1.25,8,1.25l-1.75,1.75l10,3.75l-3.75,1.75l3.25,2.75c0,0-5.5,2-8.75,0.5
+	S236.289,46.915,236.289,46.915z"/>
 </svg>

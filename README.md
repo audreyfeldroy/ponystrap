@@ -3,7 +3,7 @@ ponystrap
 
 Simple HTML/CSS/JS components for adding Django ponies to your websites. More to come soon.
 
-The documentation is at http://audreymroy.com/ponystrap/
+The documentation is at http://audreyr.github.io/ponystrap
 
 Contribute
 ----------
